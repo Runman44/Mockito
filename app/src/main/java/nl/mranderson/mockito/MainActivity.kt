@@ -2,7 +2,7 @@ package nl.mranderson.mockito
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import nl.mranderson.mockito.right.TestableFragment
+import nl.mranderson.mockito.right.NonTestableFragment
 
 class MainActivity : AppCompatActivity() {
 
